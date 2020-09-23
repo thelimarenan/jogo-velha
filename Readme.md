@@ -1,6 +1,6 @@
 # Tarefas pro desenvolvimento do software
 
-- Montar os tabuleiro
+- Montar o tabuleiro
 - Mostrador do player
 - gerar as imagens (O & X)
 - O mostrador deve mostar a imagem do jogador corrente
